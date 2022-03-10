@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine aka AMsocket</h1>
 <h3 align="center">I am Sys Admin from France</h3>
 
-<p align="left"> <a href="https://twitter.com/amsocket" target="blank"><img src="https://img.shields.io/twitter/follow/solomdq?logo=twitter&style=for-the-badge" alt="solomdq" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amsocket" target="blank"><img src="https://img.shields.io/twitter/follow/solomdq?logo=twitter&style=for-the-badge" alt="amsocket" /></a> </p>
 
 - 🔭 I’m currently working on **Intra**
 
