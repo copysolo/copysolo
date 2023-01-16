@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/amsocket" target="blank"><img src="https://img.shields.io/twitter/follow/amsocket?logo=twitter&style=for-the-badge" alt="amsocket" /></a> </p>
 
-- 🔭 I’m currently working on **Intra**
+- 🔭 I’m currently working for **SL**
 
-- 🌱 I’m currently learning **System and network technician**
+- 🌱 I’m currently learning **System and network Admin**
 
-- 👨‍💻 All of my projects are available at [www.backtothdev.com](www.backtothdev.com)
+- 👨‍💻 All of my projects are available at [www.sysadmin.amsocket.fr](www.sysadmin.amsocket.fr)
 
-- 📝 I regularly write articles on [www.backtothdev.com](www.backtothdev.com)
+- 📝 I regularly write articles on [www.sysadmin.amsocket.fr](www.sysadmin.amsocket.fr)
 
 - 📫 How to reach me **dev.achaib@gmx.fr**
 
