@@ -1,1 +1,2 @@
-https://camo.githubusercontent.com/dad52ad3da66d249d93c0697f9c20afd26497accb81914edf65fefbc2b9e61ca/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f7079736f6c6f2673686f775f69636f6e733d74727565267468656d653d64726163756c61266c6f63616c653d656e
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=copysolo&show_icons=true&theme=dracula&locale=en" alt="copysolo" /></p>
+
